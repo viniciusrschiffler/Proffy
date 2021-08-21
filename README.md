@@ -1,6 +1,6 @@
 <h1 align="center"> Proffy </h1>
 
-<h1 align="center"><img src=ImgToREADME/img01.png ></h1>
+<h1 align="center"><img src=imgToREADME/img01.png ></h1>
 
 # Indice
 
@@ -93,17 +93,17 @@ Além de tudo, o site ainda conta com um design totalmente responsivo, podendo a
 ## 🤳 Imagens
 
 <br>
-<h1 align="center"><img src=ImgToREADME/img01.png ></h1>
+<h1 align="center"><img src=imgToREADME/img01.png ></h1>
 
-<h1 align="center"><img src=ImgToREADME/img02.png ></h1>
-<h1 align="center"><img src=ImgToREADME/img03.png ></h1>
+<h1 align="center"><img src=imgToREADME/img02.png ></h1>
+<h1 align="center"><img src=imgToREADME/img03.png ></h1>
 
-<h1 align="center"><img src=ImgToREADME/img04.png></h1>
-<h1 align="center"><img src=ImgToREADME/img05.png></h1>
+<h1 align="center"><img src=imgToREADME/img04.png></h1>
+<h1 align="center"><img src=imgToREADME/img05.png></h1>
 
-<h1 align="center"><img src=ImgToREADME/img06.png height=883> <img src=ImgToREADME/img07.png height=883 ></h1>
+<h1 align="center"><img src=imgToREADME/img06.png height=883> <img src=imgToREADME/img07.png height=883 ></h1>
 
-<h1 align="center"><img src=ImgToREADME/img08.png height=883> <img src=ImgToREADME/img09.png height=883></h1>
+<h1 align="center"><img src=imgToREADME/img08.png height=883> <img src=imgToREADME/img09.png height=883></h1>
 
 
 
